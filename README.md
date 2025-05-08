@@ -76,11 +76,11 @@ To examine whether a student’s academic performance is influenced by their par
 
 ## 📁 Repository Structure
 
-├── student-performance-eda.ipynb # Complete Jupyter Notebook
-├── project_report_dse501.pdf # Final academic report
-├── project_slides_dse501.pdf # Google Slides export
-├── StudentsPerformance.csv # Original dataset
-└── README.md # This file
+- `student-performance-eda.ipynb` – Complete Jupyter Notebook with analysis
+- `project_report_dse501.pdf` – Final academic report (12+ pages)
+- `project_slides_dse501.pdf` – Slide deck summarizing the project
+- `StudentsPerformance.csv` – Original dataset (1,000 student records)
+- `README.md` – Project overview and documentation (this file)
 
 ---
 
